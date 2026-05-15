@@ -1,0 +1,62 @@
+County,Ward,Crime_Type,Cases
+Nairobi,Kilimani,Murder,3
+Nairobi,Kilimani,Robbery with Violence,45
+Nairobi,Kilimani,Burglary,120
+Nairobi,Kibera,Assault,80
+Nairobi,Kibera,Robbery with Violence,108
+Nairobi,Kibera,Murder,53
+Nairobi,Kibera,Petty Theft,300
+Nairobi,Westlands,Fraud,65
+Nairobi,Westlands,Murder,12
+Nairobi,Eastleigh,Fraud,94
+Nairobi,Eastleigh,Pickpocketing,210
+Nairobi,Eastleigh,GBV,40
+Mombasa,Nyali,Burglary,85
+Mombasa,Nyali,Assault,25
+Mombasa,Nyali,Murder,8
+Mombasa,Nyali,Robbery with Violence,15
+Mombasa,Nyali,Fraud,92
+Mombasa,Likoni,Assault,23
+Mombasa,Likoni,Robbery with Violence,60
+Mombasa,Likoni,Pickpocketing,150
+Mombasa,Likoni,Murder,14
+Mombasa,Likoni,Fraud,45
+Mombasa,Kisauni,Burglary,110
+Mombasa,Kisauni,Murder,18
+Mombasa,Kisauni,Assault,23
+Mombasa,Kisauni,Fraud,53
+Mombasa,Kisauni,Petty Theft,220
+Mombasa,Tudor,GBV,35
+Mombasa,Tudor,Fraud,20
+Mombasa,Tudor,Assault,22
+Kiambu,Ruiru,Burglary,110
+Kiambu,Ruiru,Robbery with Violence,30
+Kiambu,Ruiru,Fraud,45
+Kiambu,Ruiru,Petty Theft,215
+Kiambu,Thika,Assault,55
+Kiambu,Thika,Robbery with Violence,60
+Kiambu,Thika,Fraud,28
+Kiambu,Thika,GBV,9
+Kiambu,Thika,Petty Theft,180
+Kiambu,Kikuyu,Burglary,110
+Kiambu,Kikuyu,GBV,25
+Kiambu,Kikuyu,Pickpocketing,90
+Kiambu,Limuru,Murder,5
+Kiambu,Limuru,Fraud,15
+Kiambu,Limuru,Assault,20
+Kiambu,Limuru,GBV,100
+Nakuru,Naivasha,Burglary,95
+Nakuru,Naivasha,Assault,40
+Nakuru,Naivasha,Petty Theft,150
+Nakuru,Naivasha,Murder,6
+Nakuru,Gilgil,Pickpocketing,120
+Nakuru,Gilgil,Robbery with Violence,20
+Nakuru,Gilgil,Theft,90
+Nakuru,Molo,GBV,45
+Nakuru,Molo,Petty Theft,160
+Nakuru,Rongai,Murder,8
+Nakuru,Rongai,Fraud,10
+Nakuru,Rongai,GBV,4
+Nakuru,Rongai,Assault,35
+Nakuru,Rongai,Petty Theft,190
+Nakuru,Rongai,Burglary,14
